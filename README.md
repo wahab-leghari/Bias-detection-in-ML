@@ -1,2 +1,2 @@
 # Bias-detection-in-ML
-Bias detection and mitigation in machine learning
+Bias detection and mitigation refer to the identification and reduction of biases in data, algorithms, and decision-making processes. It involves analyzing and addressing biases that can lead to unfair or discriminatory outcomes. Techniques such as data preprocessing, algorithmic fairness, and diversity-aware evaluation are employed to detect and mitigate biases and ensure more equitable and unbiased systems.
